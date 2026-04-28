@@ -29,6 +29,6 @@ class IntegerApp:
         print("--- Processing Complete ---")
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     app = IntegerApp("integers.txt")
     app.run()
